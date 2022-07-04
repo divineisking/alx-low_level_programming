@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Entry point 
+ * main - Entry point
  *
  * Return: Always 0 (success)
  *
@@ -13,8 +13,7 @@ int main(void)
 
 	for (Ava = 0; Ava <= 10; Ava++)
 	{
-		printf( "%d", Ava);
-		printf( "\n");
-	}
+		printf("%d", Ava);
+	printf("\n");
 	return (0);
 }
