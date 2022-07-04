@@ -13,7 +13,8 @@ int main(void)
 
 	for (Ava = 0 && Ava <= 10; Ava++;)
 	{
-		printf( "%d" "\n", Ava);
+		printf( "%d", Ava);
+		printf( "\n");
 	}
 	return (0);
 }
