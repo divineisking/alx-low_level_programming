@@ -2,21 +2,18 @@
 #include <stdlib.h>
 
 /**
-* main - Entry point
+*main - Entry point
 * Return - Always 0 (Success)
-*/
-
-/* main - Entry point */
-int main(void)
-{
+*/int main(void)
+	{
 	char A;
 
 	A = 'a';
 
-	for (A = 'a'; A <= 'z'; A++)
+	for (A <= 'z'; A++)
 	{
 		putchar(A);
 	}
 	putchar('\n');
 	return (0);
-}
+	}
