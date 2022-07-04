@@ -11,7 +11,7 @@ int main(void)
 {
 	int Ava;
 
-	for (Ava = 0 && Ava <= 10; Ava++;)
+	for (Ava = 0; Ava <= 10; Ava++)
 	{
 		printf( "%d", Ava);
 		printf( "\n");
