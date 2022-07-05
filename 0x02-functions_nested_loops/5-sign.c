@@ -19,7 +19,7 @@ int print_sign(int Ava)
 	}
 	else if (Ava < 0)
 	{
-		_putchar('-')
+		_putchar('-');
 	}
-	return (-1)
+	return (-1);
 }
