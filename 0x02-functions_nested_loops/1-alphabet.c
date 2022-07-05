@@ -10,7 +10,7 @@
 
 int main(void)
 {
-	return (0)
+	return (0);
 }
 
 void print_alphabet(void)
@@ -19,7 +19,7 @@ void print_alphabet(void)
 
 	Ava = 'a';
 
-	while (Ava <= z)
+	while (Ava <= 'z')
 	{
 		_putchar(Ava);
 		Ava++;
