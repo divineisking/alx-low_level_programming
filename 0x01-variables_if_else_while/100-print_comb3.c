@@ -20,8 +20,8 @@ int main(void)
 				putchar(Afa);
 				if (Ava != 56 || Afa != 57)
 				{
-					putchar(' ');
 					putchar(',');
+					putchar(' ');
 				}
 			}
 	}
