@@ -3,7 +3,7 @@
 /**
  * print_alphabet - prints letters a+z in lowercase
  *
- * Return: void 
+ * Return: void
  *
  */
 
