@@ -4,7 +4,9 @@
  * print_sign - checks a number and prints thebsign og number
  * @Ava: number ti xhevk
  *
- * Return: returns 1 if number is positive else retruns 0 if number is 0 or -1 if number us negative
+ * Return: returns 1 if number is positive
+ * else retruns 0 if number is 0
+ * or -1 if number us negative
  */
 
 int print_sign(int Ava)
