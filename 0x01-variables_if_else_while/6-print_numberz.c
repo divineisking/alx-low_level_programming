@@ -10,7 +10,7 @@ int main(void)
 {
 	int Ava;
 
-	for (Ava = 0; Ava < 10; Ava + 1)
+	for (Ava = 0; Ava < 10; Ava++)
 	{
 		putchar(Ava);
 	}
