@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _islower- checks if a char is lower case
+ * _islower - checks if a char is lower case
  * @Ava: character yo checm
  */
 
