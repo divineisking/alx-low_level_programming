@@ -2,6 +2,7 @@
 
 /**
  * _islower- checks if a char is lower case
+ * @Ava - character yo checm
  */
 
 int _islower(int Ava)
