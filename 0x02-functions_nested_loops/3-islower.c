@@ -6,5 +6,5 @@
 
 int _slower(int Ava)
 {
-	return (c >= 'a' && c <= 'z');
+	return (Ava >= 'a' && Ava <= 'z');
 }
