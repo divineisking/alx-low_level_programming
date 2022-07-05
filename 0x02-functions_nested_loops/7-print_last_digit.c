@@ -17,7 +17,7 @@ int print_last_digit(int Ava)
 
 	a = Ava % 10;
 	
-	if (a < )
+	if (a < 0 )
 	{
 		a = -a;
 	}
