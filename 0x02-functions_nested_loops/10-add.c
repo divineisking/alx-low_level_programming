@@ -2,7 +2,6 @@
 
 /**
  * add - adds two variables and returns their sum
- * @int: values type
  * @a: fursg value
  * @b: second value
  * Return: sum of a and b
