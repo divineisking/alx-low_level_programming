@@ -8,7 +8,6 @@
 
 int add(int a, int b)
 {
-	int c;
 
 	int c = a + b;
 
