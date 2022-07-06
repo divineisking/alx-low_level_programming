@@ -3,7 +3,9 @@
 /**
  * add - adds two variables and returns their sum
  * @int: values type
- * Return:
+ * @a: fursg value
+ * @b: second value
+ * Return: sum of a and b
  */
 
 int add(int a, int b)
