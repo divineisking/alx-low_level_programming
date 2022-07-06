@@ -23,12 +23,13 @@ void print_to_98(int a)
 				printf("%d\n", b);
 			}
 		}
+	}
 
 		else if (a >= 98)
 		{
-			for (c = a; c >= 98; j--)
+			for (c = a; c >= 98; c--)
 			{
-				if (j != 98)
+				if (c != 98)
 				{
 					printf("%d, ", c);
 				}
