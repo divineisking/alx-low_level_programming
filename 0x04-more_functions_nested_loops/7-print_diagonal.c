@@ -4,7 +4,6 @@
  * print_diagonal - prints diagonal line
  * @n: number of times to print \
  */
-
 void print_diagonal(int n)
 {
 	if (n <= 0)
@@ -22,7 +21,7 @@ void print_diagonal(int n)
 			{
 				if (b == a)
 				{
-					_putchar('\')
+					_putchar('\');
 				}
 				else if
 				{
