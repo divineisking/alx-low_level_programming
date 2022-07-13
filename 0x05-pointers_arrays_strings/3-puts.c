@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _put - returns or prints a tring standard output
+ * _puts - returns or prints a tring standard output
  * @str: pointer to string to print
  */
 
