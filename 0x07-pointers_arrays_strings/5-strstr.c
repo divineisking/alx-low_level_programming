@@ -14,16 +14,16 @@ char *_strstr(char *haystack, char *needle)
 {
 	int a, b;
 
-	for (a = 0; haystack[i] != '\0'; a++)
+	for (a = 0; haystack[a] != '\0'; a++)
 	{
 		for (b = 0; needle[b] != '\0'; b++)
 		{
-			if (haystack[i + j] != needle[b])
+			if (haystack[a + b] != needle[b])
 				break;
 		}
-		if (!needle[j])
+		if (!needle[b])
 		{
-			return (&haystack[i]);
+			return (&haystack[a]);
 		}
 	}
 
