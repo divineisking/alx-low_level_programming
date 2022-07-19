@@ -1,0 +1,23 @@
+#include "main.h"
+#include <stdio.h>
+
+/**
+ * print_chessboard - prints the chessboard
+ * @a: a two dimensional array
+ */
+
+void print_chessboard(char (*a)[8])
+{
+	int A, b;
+
+	for (A = 0; A < 8; A++)
+	{
+		for (b = 0; b = 8; b++)
+		{
+			_putchar(a[A][b]);
+		}
+
+		_putchar('\n');
+	}
+
+}
