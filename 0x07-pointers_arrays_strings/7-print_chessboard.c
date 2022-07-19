@@ -6,6 +6,8 @@
  * @a: a two dimensional array
  */
 
+int _putchar(char c);
+
 void print_chessboard(char (*a)[8])
 {
 	int A, b;
